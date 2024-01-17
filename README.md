@@ -1,5 +1,5 @@
 # π
-My answer to the task: you’re given a random number generator and your task is to estimate the number pi.
+My answer to the task: you’re given a random number generator and your task is to estimate π.
 I was given this challenge by a friend, who learnt that I had started learning to code.
 I was given no further context. Simply that the approximation must use a random number generator.
 # Evaluation
